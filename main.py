@@ -1,2 +1,4 @@
-a = 13 
-print(a+7)
+a = 13
+b = "sandy"
+c = 10
+print(a*b)
